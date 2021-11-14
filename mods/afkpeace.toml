@@ -1,0 +1,13 @@
+name = "AFKPeace"
+filename = "AFKPeace-1.17-4.6.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/65jTHvHz/versions/4.6.4/AFKPeace-1.17-4.6.4.jar"
+hash-format = "sha512"
+hash = "0c39aed64dd6aed9322ce57ff570b9f6948b130c8d01c139969e633fefa95f1a2b01affaf9aab740cb5f6057a859f6512bb4773ac1f41d25cda46890ac092c0f"
+
+[update]
+[update.modrinth]
+mod-id = "65jTHvHz"
+version = "93WDdP5I"

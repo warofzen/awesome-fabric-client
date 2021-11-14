@@ -1,0 +1,16 @@
+name = "awesome fabric client"
+author = "Wrham"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "12d85e4e9f0fdcd21a21fda55f14fc10cbb38df105f7270e06994417563df159"
+
+[versions]
+fabric = "0.12.5"
+minecraft = "1.17.1"
+
+[options]
+acceptable-game-versions = "1.17"

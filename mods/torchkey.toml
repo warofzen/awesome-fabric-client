@@ -1,0 +1,13 @@
+name = "Torchkey"
+filename = "torchkey-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3432/209/torchkey-1.0.4.jar"
+hash-format = "murmur2"
+hash = "2953473486"
+
+[update]
+[update.curseforge]
+file-id = 3432209
+project-id = 392380

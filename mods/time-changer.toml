@@ -1,0 +1,13 @@
+name = "Time Changer"
+filename = "timechanger-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3478/248/timechanger-1.1.0.jar"
+hash-format = "murmur2"
+hash = "2172916849"
+
+[update]
+[update.curseforge]
+file-id = 3478248
+project-id = 436636
