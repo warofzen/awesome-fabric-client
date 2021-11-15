@@ -1,0 +1,11 @@
+{
+	"defaultGamma": 100,
+	"toggledGamma": 1500,
+	"gammaStep": 10,
+	"advancedOptions": {
+		"limitCheck": true,
+		"minGamma": -750,
+		"maxGamma": 1500,
+		"saveOptions": true
+	}
+}
