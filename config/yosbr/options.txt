@@ -129,7 +129,6 @@ key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_keys.kronhud.edithud:key.keyboard.right.shift
 key_key.lightoverlay.enable_overlay:key.keyboard.f7
-key_mcg.keybinding.main:key.keyboard.y
 key_key.mousewheelie.open_config_screen:key.keyboard.unknown
 key_key.mousewheelie.sort_inventory:key.keyboard.r
 key_key.mousewheelie.scroll_up:amecsapi.key.mouse.scroll.up
