@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/appleskin.json5"
-hash = "be15541e82dac1abef9651a133dcce2a5efb31913d05d1bb0a5e58fbd1001691"
+hash = "3808ddddaeabff56ca1cac7fda6aeaf583b8865e54d51e18ef3462f9755ea75a"
 
 [[files]]
 file = "config/yosbr/config/beenfo.json"
@@ -170,7 +170,7 @@ hash = "d56bf8aca435e44d5a2c56cb899b29bc8a84532f1841d5bba4244a7e1d9c678c"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "6dca771f93a1e7ef949f3d44e87a5fd27c3d3795302fb41aa89620dd89967087"
+hash = "c0adbb919c1bd0142a3393b73d92440297702dfa46edf9de7efa1b0fdcd00915"
 
 [[files]]
 file = "mods/advancementinfo.toml"
