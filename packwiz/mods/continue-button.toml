@@ -1,0 +1,13 @@
+name = "Continue Button"
+filename = "continuebutton-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3365/593/continuebutton-1.0.4.jar"
+hash-format = "murmur2"
+hash = "3457383888"
+
+[update]
+[update.curseforge]
+file-id = 3365593
+project-id = 412499

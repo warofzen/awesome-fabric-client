@@ -1,0 +1,13 @@
+name = "Borderless Mining Reworked"
+filename = "BorderlessMiningReworked-1.17.X.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3442/229/BorderlessMiningReworked-1.17.X.jar"
+hash-format = "murmur2"
+hash = "2555756209"
+
+[update]
+[update.curseforge]
+file-id = 3442229
+project-id = 521601

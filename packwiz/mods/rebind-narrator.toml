@@ -1,0 +1,13 @@
+name = "Rebind Narrator"
+filename = "rebind-narrator-1.17.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3542/437/rebind-narrator-1.17.1-1.0.0.jar"
+hash-format = "murmur2"
+hash = "2833728789"
+
+[update]
+[update.curseforge]
+file-id = 3542437
+project-id = 296996

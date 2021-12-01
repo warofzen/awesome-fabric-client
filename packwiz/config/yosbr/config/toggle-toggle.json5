@@ -1,0 +1,4 @@
+{
+	// The way Toggle Toggle will communicate when you change the sneak or sprint modes
+	"communicationWay": "ACTION"
+}
