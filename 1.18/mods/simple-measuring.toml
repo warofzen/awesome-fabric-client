@@ -1,0 +1,13 @@
+name = "Simple Measuring"
+filename = "simple-measuring-1.0.1-1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3545/270/simple-measuring-1.0.1-1.18.jar"
+hash-format = "murmur2"
+hash = "2274905277"
+
+[update]
+[update.curseforge]
+file-id = 3545270
+project-id = 419938

@@ -1,0 +1,13 @@
+name = "FuelInfo"
+filename = "fuelinfo-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3537/445/fuelinfo-1.0-SNAPSHOT.jar"
+hash-format = "murmur2"
+hash = "1297341798"
+
+[update]
+[update.curseforge]
+file-id = 3537445
+project-id = 489631

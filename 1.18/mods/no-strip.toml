@@ -1,0 +1,13 @@
+name = "No Strip"
+filename = "nostrip-1.2.2-1.17+.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3539/119/nostrip-1.2.2-1.17+.jar"
+hash-format = "murmur2"
+hash = "2247857592"
+
+[update]
+[update.curseforge]
+file-id = 3539119
+project-id = 405513

@@ -1,0 +1,13 @@
+name = "Third Person Maps"
+filename = "third-person-maps-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3548/405/third-person-maps-1.3.0.jar"
+hash-format = "murmur2"
+hash = "1601789386"
+
+[update]
+[update.curseforge]
+file-id = 3548405
+project-id = 431171

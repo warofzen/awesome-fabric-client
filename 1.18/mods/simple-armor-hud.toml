@@ -1,0 +1,13 @@
+name = "Simple Armor Hud"
+filename = "simple-armor-hud-1.18-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3544/74/simple-armor-hud-1.18-1.2.1.jar"
+hash-format = "murmur2"
+hash = "478049253"
+
+[update]
+[update.curseforge]
+file-id = 3544074
+project-id = 517757

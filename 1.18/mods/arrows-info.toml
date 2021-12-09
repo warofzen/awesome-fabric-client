@@ -1,0 +1,13 @@
+name = "Arrows Info"
+filename = "cr-arrows-info-fabric-1.2.0+1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3541/905/cr-arrows-info-fabric-1.2.0+1.18.jar"
+hash-format = "murmur2"
+hash = "2373714810"
+
+[update]
+[update.curseforge]
+file-id = 3541905
+project-id = 532540

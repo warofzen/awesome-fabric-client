@@ -1,0 +1,13 @@
+name = "Shulker Tooltip"
+filename = "ShulkerTooltip-1.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3545/878/ShulkerTooltip-1.10.jar"
+hash-format = "murmur2"
+hash = "1618009092"
+
+[update]
+[update.curseforge]
+file-id = 3545878
+project-id = 292899

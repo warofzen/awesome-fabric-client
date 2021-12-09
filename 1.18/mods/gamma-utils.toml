@@ -1,0 +1,13 @@
+name = "Gamma Utils"
+filename = "Gamma-Utils-1.5.4-mc1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3541/986/Gamma-Utils-1.5.4-mc1.18.jar"
+hash-format = "murmur2"
+hash = "3279013320"
+
+[update]
+[update.curseforge]
+file-id = 3541986
+project-id = 492295

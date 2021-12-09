@@ -1,0 +1,13 @@
+name = "ASH - Another Simple HUD"
+filename = "ash-1.1.16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3549/123/ash-1.1.16.jar"
+hash-format = "murmur2"
+hash = "1027872486"
+
+[update]
+[update.curseforge]
+file-id = 3549123
+project-id = 316452

@@ -1,0 +1,13 @@
+name = "Toggle Toggle"
+filename = "toggle-toggle-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3542/110/toggle-toggle-1.0.1.jar"
+hash-format = "murmur2"
+hash = "4224037251"
+
+[update]
+[update.curseforge]
+file-id = 3542110
+project-id = 367941
