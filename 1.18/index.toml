@@ -404,6 +404,11 @@ hash = "4b0cc350b8ec7ebcb66c722b972d9f6ce30c66bd199e7fd7c7e20a03d8b7cdcd"
 metafile = true
 
 [[files]]
+file = "mods/lithium.toml"
+hash = "511fe49c8aa17b69c981e1cc3f14d16bab0e7aa9248dcc1dc8cee01c9939d7ab"
+metafile = true
+
+[[files]]
 file = "mods/map-tooltip.toml"
 hash = "838b8f3a7cc940eb5f228894c4fb4b9ddefda372f3893f87bcd1f19ac217cb6a"
 metafile = true
