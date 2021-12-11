@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "85fcebe729646abf8af1451dfe7feab6b062860cf9dc2e82f6f4536dea4487f6"
+hash = "b87ccd7d4b93b472fe63beb387269443455d31f2c4ec8483d1968cfeef8f6727"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.toml"
-hash = "9a2e946c6e3e1d11abebddf73e7dedd0c1f0ac1a1760c43ab2d449c8da6b1377"
+hash = "160ca7be5abc827c485bfded6564556315aca5a3e75d64123471e7956774ffca"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-mount-hud.toml"
-hash = "93dc278b289483148e3474c88243f8fa640a1be7934bd70bb4dbcb9619a1711f"
+hash = "628ee5a0eb26c46926c80bf43dacd2300a2bc722169c4d7aa2bb4892c77ad913"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "3673dd85d0ebecbef0501f2506206279fedc113070ee32a98fbe0690ba4e2aab"
+hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/completeconfig.toml"
-hash = "126711d50f796ccc8292cb1bfe3b3b9d7ede964fafdd73194e8a6239e4ee0e5e"
+hash = "ee0e74082d6efae74eb702da33b2b798557ee91014f2c08b68afc6552d64820b"
 metafile = true
 
 [[files]]
@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.toml"
-hash = "865f2adc57260df8f53e9f3444bf918b7af79b093008533256c61a6fb05c75d4"
+hash = "16cfbd80478e47ad53d383025c5fa8cb3360f8d186a0dfb44eb2ae6c973f9b2b"
 metafile = true
 
 [[files]]
@@ -401,11 +401,6 @@ metafile = true
 [[files]]
 file = "mods/light-overlay.toml"
 hash = "4b0cc350b8ec7ebcb66c722b972d9f6ce30c66bd199e7fd7c7e20a03d8b7cdcd"
-metafile = true
-
-[[files]]
-file = "mods/lithium.toml"
-hash = "511fe49c8aa17b69c981e1cc3f14d16bab0e7aa9248dcc1dc8cee01c9939d7ab"
 metafile = true
 
 [[files]]
