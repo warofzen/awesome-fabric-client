@@ -1,4 +1,4 @@
-version:2860
+version:2865
 autoJump:false
 autoSuggestions:true
 chatColors:true
@@ -134,7 +134,8 @@ key_nicephore.keybinds.screenshots.gui:key.keyboard.h
 key_nicephore.keybinds.gallery.gui:key.keyboard.g
 key_key.nostrip.togglestrip:key.keyboard.k
 key_key.perspectivemod.toggle:key.keyboard.f4
-key_options.narrator:key.keyboard.b
+key_presencefootsteps.settings.key:key.keyboard.f10
+key_options.narrator:key.keyboard.unknown
 key_key.simplemeasuring.toggle_measuring:key.keyboard.f8
 key_key.slotlock:key.keyboard.left.alt
 key_key.umollu_ash.toggleAsh:key.keyboard.f6

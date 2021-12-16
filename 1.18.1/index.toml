@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "3e7acf91283361dcd10976db252bd5c1747e5fde043cb6da3929fdfd56132e3c"
+hash = "cc87cf8e2dfe3f36c68b17f9c36ec7b4ca60961e069f067b37ed8b9f4e3d8634"
 
 [[files]]
 file = "config/yosbr/config/advancementinfo.json5"
@@ -15,6 +15,14 @@ hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 [[files]]
 file = "config/yosbr/config/beenfo.json"
 hash = "08a4cc63d1643aa9b22636c2c88e1203c6900303318a76cde308a56cd9cc11da"
+
+[[files]]
+file = "config/yosbr/config/betterf3.json"
+hash = "907e957ba2ed8e57c0add8201dace2e151f235417191e99e0b7bb2b37482aed7"
+
+[[files]]
+file = "config/yosbr/config/betterpingdisplay.json"
+hash = "d9b413555ca6e7add44924c507e5ec5dc8db060f9b04fdfefcd505e61faec0e0"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -70,7 +78,7 @@ hash = "6f9fdd6572abfea448ed99fa00273f015589b94b13cdb578d6d335948263ec3c"
 
 [[files]]
 file = "config/yosbr/config/fabric/indigo-renderer.properties"
-hash = "cfe0edc09a98debbd90af7645167d0e9e6dc9ed088fcbf6d3ff35cff37679098"
+hash = "71a9f0d6859ac546cad1eebd7fd3120ef8b5fd6a97c9079fafb220955d4a54c0"
 
 [[files]]
 file = "config/yosbr/config/fast-chest.properties"
@@ -94,7 +102,7 @@ hash = "a1682e8de53c1a4a2824110400cfa3d83496c023355ca2c853e6cf6fdc9b1b3b"
 
 [[files]]
 file = "config/yosbr/config/indium-renderer.properties"
-hash = "93da615674e2737c7daeb7c39d2380085febd1682df87c48ba27bf14414d877b"
+hash = "e5991fa59275d5ce23821db63b5952acd8ca95d049af7981c0b67aaeed1722e8"
 
 [[files]]
 file = "config/yosbr/config/inventoryhotswap.json"
@@ -102,7 +110,7 @@ hash = "3f7ebe33b41a16af24fe65ad1a4b468eea69e41d924f89afd81d0043a84ee9e6"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "7480e30defd51c54d0416acd8f292b395ce8114e01daaeea95905bc4fbcb74eb"
+hash = "529de353b958868ac17b8deb0b198a3546ecac07ac2bfa309d14908faddfa006"
 
 [[files]]
 file = "config/yosbr/config/lambdabettergrass.toml"
@@ -161,6 +169,14 @@ file = "config/yosbr/config/perspectivemod/main.json5"
 hash = "6a5944f13d0a3f8434f4143514d27dc8709a5624267505a56bfa63b0c7f46764"
 
 [[files]]
+file = "config/yosbr/config/presencefootsteps/updater.json"
+hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
+
+[[files]]
+file = "config/yosbr/config/presencefootsteps/userconfig.json"
+hash = "62a95a6f12762d3424960d087df674ed0a448f45c3e51d6ffb913593bb2ecd15"
+
+[[files]]
 file = "config/yosbr/config/rrp.properties"
 hash = "9b48af9b2c474f13a0de480d183af3ef1bc39a49694321557b246cc06bb403b8"
 
@@ -171,6 +187,10 @@ hash = "81251753e84b174d58694df8eebf39ea36399d9649431a40cf27e70f22150f5c"
 [[files]]
 file = "config/yosbr/config/simple-rpc.toml"
 hash = "ab16ce626439fa4a83914f6db94e7ee49f1f61ca269c0b22820d1c82b9ec03f4"
+
+[[files]]
+file = "config/yosbr/config/skinlayers.json"
+hash = "55e1e98eae07027f2e91e6ba4f6cfd9973e61461a2bb3e30fb58e0648a55275c"
 
 [[files]]
 file = "config/yosbr/config/slightguimodifications/config.json5"
@@ -206,7 +226,7 @@ hash = "322e92e13952d61767faa68ea8a30ee0b7dcb34bac4fe1197efbec985760d6d8"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "7a67b58649fd497ad3f0344ed185557ca3235b040279ff4d1fe965ac15b7149b"
+hash = "1c093b5222ddbb277157defa0a60df7a652e4336eccd1d68cf931c9f5dc827ad"
 
 [[files]]
 file = "mods/advancementinfo.toml"
@@ -220,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "b87ccd7d4b93b472fe63beb387269443455d31f2c4ec8483d1968cfeef8f6727"
+hash = "6acb793cd97dff83925decbfab9c9e418563c1fe2c84f1972047e7110a39f16f"
 metafile = true
 
 [[files]]
@@ -246,6 +266,16 @@ metafile = true
 [[files]]
 file = "mods/better-mount-hud.toml"
 hash = "628ee5a0eb26c46926c80bf43dacd2300a2bc722169c4d7aa2bb4892c77ad913"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.toml"
+hash = "ce778bbe621a30226c5deb7a4e77700ddb512b1352792ea3f495e2dfea582e0e"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.toml"
+hash = "62d0e9e74c95be4afcead97e60e3558d5606be9c7aad2da5934213a5c2bed9de"
 metafile = true
 
 [[files]]
@@ -290,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.toml"
-hash = "9f49f10f831712b262c47964fd22e0117b397cba8843355fac22b9cca40ada23"
+hash = "ea0b2bde8e3658bb8cde2901cd794622decfcd5a22435d0b9c510b11795bcfdb"
 metafile = true
 
 [[files]]
@@ -346,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/fastchest.toml"
 hash = "7c5232431f0ecb22111a697d8bf0f27810db1837f484f19d7f38858b5250844d"
+metafile = true
+
+[[files]]
+file = "mods/fastopenlinksandfolders.toml"
+hash = "43fdcfbe3d14e724bf3c5a37bda4648677b511a296797ae377573308297c5a62"
 metafile = true
 
 [[files]]
@@ -405,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "511fe49c8aa17b69c981e1cc3f14d16bab0e7aa9248dcc1dc8cee01c9939d7ab"
+hash = "3a8fb7d4258da78b56e3e34f67df5b13f4773496bad7a5806fb603342294753c"
 metafile = true
 
 [[files]]
@@ -444,6 +479,11 @@ hash = "83522aef26335f10328fd0ad6a1ba2584a07029586e9d7e943712345fdf346cb"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.toml"
+hash = "4f9056a630be5f300b095bf9b4e268c9c1d6f85def91e590887d5c3198ae2bd1"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.toml"
 hash = "d087a30cebb32c33284742ea62770d2a4e230d59294068d6504624c3a09389a6"
 metafile = true
@@ -456,6 +496,11 @@ metafile = true
 [[files]]
 file = "mods/perspective-mod-redux.toml"
 hash = "7ad69c262deaca8f0e0b7740532ae2c446fe1441e58ce2fdfefa301ce9ad2ef4"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.toml"
+hash = "356c07fc9eeebf4cf29db1e08f32480cf1c4755d3132dbc65db53ea04053a8fe"
 metafile = true
 
 [[files]]
@@ -480,12 +525,17 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.toml"
-hash = "3a45ada8bc17f62ff819428d7fcfc06d0dff6e9c74518b532957b38e959d5536"
+hash = "03a9d57b9872e056a0c48e7ae6c4dcd423d63d464aef0e398d91a99a7f5ebaac"
 metafile = true
 
 [[files]]
 file = "mods/simple-measuring.toml"
 hash = "95345cbb091f4a2ff0982224b3a03e2b13d0c142be76b828771e2f224a932615"
+metafile = true
+
+[[files]]
+file = "mods/skin-layers-3d.toml"
+hash = "03913aad4c0d66a78d5adeaf03d409a85a4d165fbcae9382965d2bb5b52fcaeb"
 metafile = true
 
 [[files]]
@@ -514,6 +564,11 @@ hash = "5503fe0648bb3a63076467152d9a8acd1e8735118534d368cbfd6fd84bb4693c"
 metafile = true
 
 [[files]]
+file = "mods/starlight.toml"
+hash = "c641a4f43b1c98bc9b7931306b55e83477233a4e33febf49ce7f9bebfa058872"
+metafile = true
+
+[[files]]
 file = "mods/third-person-maps.toml"
 hash = "e963bcd514c0c829049d3d40d855290d4219f0f3452c3939fa0287620edcd330"
 metafile = true
@@ -530,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/wi-zoom.toml"
-hash = "8177307d9151796fd0dc5e3aa41087a0b1f410d5c38bb287a5d8ce88cb47d6b0"
+hash = "55b4c6860ba2e8cb475ab48582ef10766bd86c3ab7dc1842ae182548159ee227"
 metafile = true
 
 [[files]]
