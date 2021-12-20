@@ -61,10 +61,6 @@ file = "config/yosbr/config/cullleaves.json"
 hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
 
 [[files]]
-file = "config/yosbr/config/defaultoptions.toml"
-hash = "3e93640912ed3a9ddf871b45ccf373d7d8db57e50bcc2798e9b7112b2e031c67"
-
-[[files]]
 file = "config/yosbr/config/dontdropit.json5"
 hash = "7f57e56bf731c99bbd9f7f3148ee015711030a1d9b327b71902879702d3e55aa"
 
