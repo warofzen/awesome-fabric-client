@@ -17,7 +17,7 @@ fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
-darkMojangStudiosBackground:false
+darkMojangStudiosBackground:true
 hideLightningFlashes:false
 mouseSensitivity:0.5
 fov:0.0
@@ -125,7 +125,7 @@ key_iris.keybind.toggleShaders:key.keyboard.i
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_key.lightoverlay.enable_overlay:key.keyboard.f7
 key_key.mousewheelie.open_config_screen:key.keyboard.unknown
-key_key.mousewheelie.sort_inventory:key.mouse.middle
+key_key.mousewheelie.sort_inventory:key.keyboard.r
 key_key.mousewheelie.scroll_up:key.amecsapi.mouse.scroll.up
 key_key.mousewheelie.scroll_down:key.amecsapi.mouse.scroll.down
 key_key.mousewheelie.pick_tool:key.keyboard.unknown

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "cc87cf8e2dfe3f36c68b17f9c36ec7b4ca60961e069f067b37ed8b9f4e3d8634"
+hash = "2c633886d8d3df0d5fa2a8ee79b3fb71d79a0e01194f14e128e3a893f198cee6"
 
 [[files]]
 file = "config/yosbr/config/advancementinfo.json5"
@@ -226,7 +226,7 @@ hash = "322e92e13952d61767faa68ea8a30ee0b7dcb34bac4fe1197efbec985760d6d8"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "1c093b5222ddbb277157defa0a60df7a652e4336eccd1d68cf931c9f5dc827ad"
+hash = "19c4fa5c721d738acc50c21465a70c8f68e30bd8671b9cc88e3fe1ba4fc85a64"
 
 [[files]]
 file = "mods/advancementinfo.toml"
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "6acb793cd97dff83925decbfab9c9e418563c1fe2c84f1972047e7110a39f16f"
+hash = "1cd5f30cd826c92a345487d6c8111beed7d7dc6d87959676def4b244d5de6572"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.toml"
-hash = "ea0b2bde8e3658bb8cde2901cd794622decfcd5a22435d0b9c510b11795bcfdb"
+hash = "8bb15253f02fe99855e02fae54bad21f43108099b8d3b3666df691d84704cd91"
 metafile = true
 
 [[files]]
@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "65580017b27e0f38290448b991efffd2ebaeb23f1426afccf28cc1c9303e5f0d"
+hash = "b07bf5cc07a80a89ad2bb4a149655a6f7f0d8684c7bc3fda6767040cb6c5b7b9"
 metafile = true
 
 [[files]]
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/nicephore-fabric.toml"
-hash = "f29438aa950243fbf8c1ad540951cb2a64beee3901b83bed918f96d12ce8bf66"
+hash = "e02bfdd35cba9da9a31437a260238d868135abf1f4e8e57f121303a37e1cba59"
 metafile = true
 
 [[files]]
