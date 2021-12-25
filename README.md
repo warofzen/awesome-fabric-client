@@ -25,5 +25,5 @@ Simple client-side modpack that enhances your overall gameplay experience by add
 While most of features on this mods are configured for fair-play, some public servers (especially big ones like hypixel or mineplex) might not tolerate the usage of some features like Brightness and 360 Perspective. You should check the server's rules before using it on a public server. I am not responsible for the consequences of inappropriate use of this modpack.
 
 ## Credit
-Madis0 / robotkoer
-Lunar Client Team - for creating Lunar Client which also have been a big inspirations
+[Madis0 / robotkoer](https://github.com/Fabulously-Optimized/fabulously-optimized) - for creating Fabulously Optimized which has been my biggest inspirations of this modpack<br>
+[Lunar Client Team](https://www.lunarclient.com/) - for creating Lunar Client which also have been a big inspirations
