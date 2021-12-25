@@ -89,10 +89,6 @@ file = "config/yosbr/config/fabric/indigo-renderer.properties"
 hash = "71a9f0d6859ac546cad1eebd7fd3120ef8b5fd6a97c9079fafb220955d4a54c0"
 
 [[files]]
-file = "config/yosbr/config/fast-chest.properties"
-hash = "993bb534dc660ba0fe224c40a589d74ae47ea8a9b0e2cfc97879ff6e9d77520b"
-
-[[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "e252e0ec8ce9bc7c8b60c2af88ff26aa70dd951128224edaa8d555e3d82f82ae"
 
