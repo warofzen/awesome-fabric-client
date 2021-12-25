@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "2c633886d8d3df0d5fa2a8ee79b3fb71d79a0e01194f14e128e3a893f198cee6"
+hash = "01c1fdc64124e55c11d4f11c5968c95d2640fe2f53a6a71f273b14fd510e7322"
 
 [[files]]
 file = "config/yosbr/config/advancementinfo.json5"
@@ -23,6 +23,10 @@ hash = "907e957ba2ed8e57c0add8201dace2e151f235417191e99e0b7bb2b37482aed7"
 [[files]]
 file = "config/yosbr/config/betterpingdisplay.json"
 hash = "d9b413555ca6e7add44924c507e5ec5dc8db060f9b04fdfefcd505e61faec0e0"
+
+[[files]]
+file = "config/yosbr/config/brb.toml"
+hash = "154ce0f19b8f637eaab082b6153b5cb70003719d4241385f83f38838188376cf"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -67,6 +71,14 @@ hash = "7f57e56bf731c99bbd9f7f3148ee015711030a1d9b327b71902879702d3e55aa"
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
 hash = "d755fffa95330f9083560f4a9f197c01bd18acccf5f262e506b4d80a4809e6bf"
+
+[[files]]
+file = "config/yosbr/config/enhanced_attack_indicator.json"
+hash = "868b765337253a906cd34a3821433eb4e20806f8d27b3bf1cd8aac5837e63ad4"
+
+[[files]]
+file = "config/yosbr/config/enhanced_bes.properties"
+hash = "0186898a5bfd2c04e35ddd02e4993928bb421277a694239c6363466bd65708dd"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
@@ -222,11 +234,16 @@ hash = "322e92e13952d61767faa68ea8a30ee0b7dcb34bac4fe1197efbec985760d6d8"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "19c4fa5c721d738acc50c21465a70c8f68e30bd8671b9cc88e3fe1ba4fc85a64"
+hash = "007b1deb8bc4f5db45b5505814bcfde6bd2f403f78f9773b35de076ededeb457"
 
 [[files]]
 file = "mods/advancementinfo.toml"
 hash = "675d82969da304f069ee676cbf3b1872f70ffae3a27ad613ff91ddf02d8ae8ac"
+metafile = true
+
+[[files]]
+file = "mods/animatica.toml"
+hash = "509a6b36ee65f458986dd19eb09b4c5f5feda7a976937a3cb6dfe4fee095797c"
 metafile = true
 
 [[files]]
@@ -236,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "1cd5f30cd826c92a345487d6c8111beed7d7dc6d87959676def4b244d5de6572"
+hash = "45d453e750f9f45732afbb74d41c7f142baae528733d820de8610d4cbb3a8101"
 metafile = true
 
 [[files]]
@@ -272,6 +289,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.toml"
 hash = "62d0e9e74c95be4afcead97e60e3558d5606be9c7aad2da5934213a5c2bed9de"
+metafile = true
+
+[[files]]
+file = "mods/brb.toml"
+hash = "30ea0feeb32b605b5abb18ee90128108f9d7381ad0c9095751add08e3ca5a3d5"
 metafile = true
 
 [[files]]
@@ -316,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.toml"
-hash = "8bb15253f02fe99855e02fae54bad21f43108099b8d3b3666df691d84704cd91"
+hash = "ad213896f2aadffb419b70ff4c82233c0c511f628d31dbb37f7738be99c259e7"
 metafile = true
 
 [[files]]
@@ -355,23 +377,28 @@ hash = "a3c3d4f35494103eb96d62ad1e63932d4407c90b7878fdb1d2d1f75e26da1ce4"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-attack-indicator.toml"
+hash = "1116c98703f9d1440d61ed60d8b76d507acbbfb20dd582cbaf8ddb798ab3c754"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-block-entities.toml"
+hash = "08280b7b95f068d0311df8ce7a79d9f33a123369448ad4bccc6f0b98ff799807"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.toml"
 hash = "114395acdb903faf33561e5e653d1b4a0deed26af32781cdbb7eef2965aff1fe"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "e1e489ae4e66ec2e42d0aca91fa7c16cec0ecb835c3f1c7dab86f4372f2b2421"
+hash = "1cba7ffaf01ed4ca7f2cb06133963ed3d574376d4f03012dfa1c584539d5603d"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "2e585b6ce11bc8f187a3178debba7086dfebdd37c667aee1dd46d627ab94e083"
-metafile = true
-
-[[files]]
-file = "mods/fastchest.toml"
-hash = "7c5232431f0ecb22111a697d8bf0f27810db1837f484f19d7f38858b5250844d"
+hash = "7f4996fc7ac9367f157cbd94ac9b4601225279d457df78f66941a157e8592eb0"
 metafile = true
 
 [[files]]
@@ -466,7 +493,7 @@ metafile = true
 
 [[files]]
 file = "mods/nicephore-fabric.toml"
-hash = "e02bfdd35cba9da9a31437a260238d868135abf1f4e8e57f121303a37e1cba59"
+hash = "04de6a8607cdbc90a1d40b16a04f1847d7a34ffda30b5216be477c15d3164be6"
 metafile = true
 
 [[files]]
@@ -486,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "3953018927bb4f7464d1c9a9a19e84e2b59a5e387ffe5ec2e79f01e8d7bb0996"
+hash = "6b3918f68cdde22ca096a51a4db0a0d17c9d7109807c6b23a7f51aba15e46f50"
 metafile = true
 
 [[files]]
@@ -506,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "d4581cbd048ec6d30f4ac9349abe3eb36e7f3a400cf8282779a1177c0a0292b9"
+hash = "a3b39e94523b4e4b0bf40b5bd6d900342d153bec98910f9c174c1cd2e436dd69"
 metafile = true
 
 [[files]]

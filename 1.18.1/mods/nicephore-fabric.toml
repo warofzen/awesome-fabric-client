@@ -1,13 +1,13 @@
 name = "Nicephore (better screenshots) [Fabric]"
-filename = "nicephore-fabric-1.18.x-1.1.0.jar"
+filename = "nicephore-fabric-1.18.x-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3571/321/nicephore-fabric-1.18.x-1.1.0.jar"
+url = "https://edge.forgecdn.net/files/3574/667/nicephore-fabric-1.18.x-1.1.1.jar"
 hash-format = "murmur2"
-hash = "1121418103"
+hash = "1981794520"
 
 [update]
 [update.curseforge]
-file-id = 3571321
+file-id = 3574667
 project-id = 405990

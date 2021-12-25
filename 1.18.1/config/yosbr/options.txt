@@ -27,7 +27,7 @@ gamma:1.0
 renderDistance:12
 simulationDistance:12
 entityDistanceScaling:1.0
-guiScale:0
+guiScale:3
 particles:0
 maxFps:120
 difficulty:2
@@ -109,7 +109,7 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.dynamicfps.toggle_forced:key.keyboard.unknown
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
-key_key.gamma_utils.gamma_toggle:key.keyboard.j
+key_key.gamma_utils.gamma_toggle:key.keyboard.backslash
 key_key.gamma_utils.increase_gamma:key.keyboard.up
 key_key.gamma_utils.decrease_gamma:key.keyboard.down
 key_key.namepain.showculled:key.keyboard.unknown
@@ -120,9 +120,9 @@ key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
 key_key.deathlog.death_screen:key.keyboard.end
 key_key.entityculling.toggle:key.keyboard.unknown
-key_iris.keybind.reload:key.keyboard.r
+key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.i
-key_iris.keybind.shaderPackSelection:key.keyboard.o
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_key.lightoverlay.enable_overlay:key.keyboard.f7
 key_key.mousewheelie.open_config_screen:key.keyboard.unknown
 key_key.mousewheelie.sort_inventory:key.keyboard.r
@@ -140,7 +140,7 @@ key_key.simplemeasuring.toggle_measuring:key.keyboard.f8
 key_key.slotlock:key.keyboard.left.alt
 key_key.umollu_ash.toggleAsh:key.keyboard.f6
 soundCategory_master:1.0
-soundCategory_music:0.0
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

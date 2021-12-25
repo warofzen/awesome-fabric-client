@@ -1,0 +1,13 @@
+name = "Enhanced Attack Indicator"
+filename = "enhanced_attack_indicator-1.0.2+1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3555/753/enhanced_attack_indicator-1.0.2+1.18.jar"
+hash-format = "murmur2"
+hash = "466026040"
+
+[update]
+[update.curseforge]
+file-id = 3555753
+project-id = 446173
